@@ -1,21 +1,10 @@
 # Platzi Video
+Proyecto realizado con React.js, buscador de videos. Permite buscar videos predeterminados por categorias. Muestra el playlist de los videos favoritos.
 
-> Proyecto realizado con React.js
+## Instalar proyecto
+npm install
 
-![Platzi-video](https://raw.githubusercontent.com/AngelVasquezNep/platzi-video/master/src/images/platzi-video-1.png)
+## Arrancar proyecto
+npm start
 
-### Manipulación de API de Video
 
-![Platzi-video](https://raw.githubusercontent.com/AngelVasquezNep/platzi-video/master/src/images/platzi-video-2.png)
-
-___
-
-### Autor
-
-Mi nombre es Ángel Vásquez, desarrollador front end.
-
-🚀 Me gusta Vue y React.
-
-[GitHub](https://github.com/angelvasqueznep) 
-
-[Twitter](https://twitter.com/angelvasqueznep)
